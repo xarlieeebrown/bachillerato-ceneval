@@ -797,7 +797,7 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 
   padding: 10px;
 
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 
 }
 
@@ -2507,7 +2507,7 @@ footer:before {
 
   .jumbotron {padding: 40px 20px; margin-right: -20px; margin-left: -20px; text-align: center;}
 
-  .jumbotron .block {margin: 15px 0px;}
+  .jumbotron .block {margin: 15px 0px; padding: 250px;}
 
   .jumbotron img {max-width: 80% !important;}
 
